@@ -29,8 +29,8 @@ setState(() {
   _name="Selina"; 
   
 });
-}
-, child: Text("Name anzeigen")
+},
+child: Text("Name anzeigen")
 )
       ],
     );
