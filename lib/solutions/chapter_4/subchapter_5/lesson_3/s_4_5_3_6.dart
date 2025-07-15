@@ -23,6 +23,7 @@ Product("Eis", 4.99)
           subtitle: Text("${product.price.toStringAsFixed(2)} €")
         );
       },
+      
       );
       
       
